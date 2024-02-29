@@ -31,3 +31,4 @@ To run the project locally, follow these steps:
 - Update the database configuration in `config/db.js` with your MySQL credentials.
 
 4. **Run the Application**: 
+       npm start
